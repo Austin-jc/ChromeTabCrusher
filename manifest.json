@@ -9,6 +9,8 @@
   "permissions": ["tabs", "storage", "activeTab", "scripting"],
   "icons": {
     "128": "/images/ganyu-128.png"
+  },
+  "action": {
+    "default_popup": "settings_popup.html"
   }
-
 }
